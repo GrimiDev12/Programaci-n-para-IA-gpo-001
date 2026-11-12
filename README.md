@@ -1,2 +1,6 @@
 # Programaci-n-para-IA-gpo-001
-Gael Cárdenas Bernal 2208816 Edgar Aldair Grimaldo Avila 2163608Santiago Alonso Moreno López 2189244 Braulio Emmanuel González López 2276375
+Gael Cárdenas Bernal 2208816 
+Edgar Aldair Grimaldo Avila 2163608
+Santiago Alonso Moreno López 2189244 
+Braulio Emmanuel González López 2276375 
+Ángel Eliseo Cristán Palacios 2207776
